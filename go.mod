@@ -1,3 +1,3 @@
-module go_routine.com
+module goroutine.com
 
 go 1.20

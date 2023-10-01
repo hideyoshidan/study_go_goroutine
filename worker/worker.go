@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"go_routine.com/apis"
+	"goroutine.com/apis"
 )
 
 type Worker struct {

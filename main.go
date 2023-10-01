@@ -5,11 +5,11 @@ import (
 	"sync"
 	"time"
 
-	"go_routine.com/apis"
-	"go_routine.com/client"
-	"go_routine.com/constant"
-	"go_routine.com/mutex"
-	"go_routine.com/worker"
+	"goroutine.com/apis"
+	"goroutine.com/client"
+	"goroutine.com/constant"
+	"goroutine.com/mutex"
+	"goroutine.com/worker"
 )
 
 var wg sync.WaitGroup

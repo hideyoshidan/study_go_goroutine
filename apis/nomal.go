@@ -3,8 +3,8 @@ package apis
 import (
 	"fmt"
 
-	"go_routine.com/client"
-	"go_routine.com/constant"
+	"goroutine.com/client"
+	"goroutine.com/constant"
 )
 
 type Nomal struct {
